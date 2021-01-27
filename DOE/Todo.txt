@@ -1,0 +1,7 @@
+To do
+1. Tuning Model
+2. Apply Tokenize and Correction words(Spell Check)
+3. Test with sum_dataset(26/01)
+Research Model
+1. Maybe try to extract sentence to keyword, then train model to predict jobs.
+2. Maybe classify jobs by some model
